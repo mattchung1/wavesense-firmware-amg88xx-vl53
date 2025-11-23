@@ -1,8 +1,12 @@
+// Firmware code for Wavesense device that uses VL53L0X and AMG88xx sensors
+
+/* Portions of this file derived from VL53L0X driver
 /*	
  * Copyright (c) 2017 STMicroelectronics
  *
  * SPDX-License-Identifier: Apache-2.0
  */
+
 
 #include <zephyr/kernel.h>
 #include <zephyr/device.h>
@@ -358,3 +362,4 @@ int main(void)
 	}
 	return 0;
 }
+
