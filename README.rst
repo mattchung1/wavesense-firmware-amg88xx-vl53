@@ -44,32 +44,33 @@ Sample Output
  .. code-block:: console
 
 
-00> 
-00> Distance: 2137 mm
-00> Object output high time of 0ns 
-00> Duty Cycle: 0
-00> new sample:
-00> 
-00> Distance: 2093 mm
-00> Object output high time of 0ns 
-00> Duty Cycle: 0
-00> new sample:
-00> 
-00> Temperature above threshold! Activating alert servo.
-00> Distance: 2107 mm
-00> Object output high time of 0ns 
-00> Duty Cycle: 0
-00> new sample:
-00> 
-00> Temperature above threshold! Activating alert servo.
-00> Distance: 116 mm
-00> Object output high time of 15699832ns 
-00> Duty Cycle: 78
-00> new sample:
-00> 
-00> Temperature above threshold! Activating alert servo.
-00> Distance: 60 mm
-00> Object output high time of 18060709ns 
-00> Duty Cycle: 90
-00> new sample:
-00> 
+  00> 
+  00> Distance: 2137 mm
+  00> Object output high time of 0ns 
+  00> Duty Cycle: 0
+  00> new sample:
+  00> 
+  00> Distance: 2093 mm
+  00> Object output high time of 0ns 
+  00> Duty Cycle: 0
+  00> new sample:
+  00> 
+  00> Temperature above threshold! Activating alert servo.
+  00> Distance: 2107 mm
+  00> Object output high time of 0ns 
+  00> Duty Cycle: 0
+  00> new sample:
+  00> 
+  00> Temperature above threshold! Activating alert servo.
+  00> Distance: 116 mm
+  00> Object output high time of 15699832ns 
+  00> Duty Cycle: 78
+  00> new sample:
+  00> 
+  00> Temperature above threshold! Activating alert servo.
+  00> Distance: 60 mm
+  00> Object output high time of 18060709ns 
+  00> Duty Cycle: 90
+  00> new sample:
+  00> 
+
