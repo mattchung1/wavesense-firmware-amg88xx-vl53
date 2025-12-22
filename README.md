@@ -17,11 +17,11 @@ Check out the device in action:
 ## Project Files
 PCB view for the Wavesense
 
-![PCB Layout View](wavesense-project/altium/sample/Wavesense.png)
+![PCB Layout View](altium/sample/Wavesense.png)
 
 SCH View for the Wavesense
 
-![SCH Layout View](wavesense-project/altium/sample/sampleSch.png)
+![SCH Layout View](altium/sample/sampleSch.png)
 
 ## Repository Structure
 
